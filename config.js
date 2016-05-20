@@ -11,7 +11,7 @@ if (process.env.OPENSHIFT_MYSQL_DB_HOST != undefined) {
         // When running Ghost in the wild, use the production environment
         // Configure your URL and mail settings here
         production: {
-            url: 'http://johnzaccone.io',
+            url: 'http://www.johnzaccone.io',
             mail: {},
             database: {
                 client: 'mysql',
@@ -41,7 +41,7 @@ if (process.env.OPENSHIFT_MYSQL_DB_HOST != undefined) {
         // When running Ghost in the wild, use the production environment
         // Configure your URL and mail settings here
         production: {
-            url: 'http://johnzaccone.io',
+            url: 'http://www.johnzaccone.io',
             mail: {},
             database: {
                 client: 'pg',
