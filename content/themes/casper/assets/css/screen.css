@@ -714,7 +714,7 @@ body.nav-opened .nav {
 
 /* Create a bouncing scroll-down arrow on homepage with cover image */
 .scroll-down {
-    display: block;
+    display: none;
     position: absolute;
     z-index: 100;
     bottom: 45px;
